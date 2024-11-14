@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dagsken
 - 👀 I’m interested in SAS, Oracle, Azure, MS Access, Python, Webscraping, Qlicksense, Dash, PowerBI, MS Excel
-- 🌱 I’m currently learning SAS Data Integration, MS Azure, Synnapse, Qlicksense
+- 🌱 I’m currently learning MS Azure, Synapse, Qliksense, Data science, Python, Sparksql, Pl/sql 
 - 💞️ I’m looking to collaborate on a data development project or a visualization
 - 📫 How to reach me dagdebacker@gmail.com
 
